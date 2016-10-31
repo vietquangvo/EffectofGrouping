@@ -1,4 +1,4 @@
-# EffectofGrouping
+# Effect of Grouping in Human Crowd Movement
 This repository attaches material supporting 'The Effect of Grouping in Human Crowd Movement' thesis
 
 1_Videos (.gif file format)
